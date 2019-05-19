@@ -1,0 +1,147 @@
+﻿<Window x:Class="PROJEKT_NARIN.MyHero"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Мой герой" Height="503.313" Width="362.895">
+    <Window.Background>
+        <ImageBrush ImageSource="foneCreate.png" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="4.5*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="73*"/>
+            <RowDefinition Height="41*"/>
+            <RowDefinition Height="120*"/>
+            <RowDefinition Height="124*"/>
+            <RowDefinition Height="50*"/>
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Right" Margin="0,23,0,0" TextWrapping="Wrap" Text="Имя:" VerticalAlignment="Top" FontFamily="Segoe Print" Width="37"/>
+        <TextBlock HorizontalAlignment="Right" Margin="0,10,0,0" Grid.Row="1" TextWrapping="Wrap" Text="Пол:" VerticalAlignment="Top" FontFamily="Segoe Print" Width="36" TextAlignment="Center"/>
+        <TextBox x:Name="nameTb" Grid.Column="1" Margin="10" TextWrapping="Wrap" FontFamily="Segoe Print" Background="#FFFAFF93"/>
+        <RadioButton x:Name="pol1" Content="Мужчина" Grid.Column="1" HorizontalAlignment="Left" Margin="10,13,0,12" Grid.Row="1" VerticalAlignment="Center" GroupName="pol" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="pol2" Content="Женщина" Grid.Column="1" Margin="93,13,116,13" Grid.Row="1" GroupName="pol" VerticalAlignment="Center" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="pol3" Content="Другое" Grid.Column="1" Margin="179,13,0,12" Grid.Row="1" GroupName="pol" HorizontalAlignment="Left" VerticalAlignment="Center" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <TextBlock HorizontalAlignment="Right" Margin="0,59" Grid.Row="2" TextWrapping="Wrap" Text="Класс:" VerticalAlignment="Top" FontFamily="Segoe Print" Width="52" TextAlignment="Center"/>
+        <RadioButton x:Name="class5" Content="Паладин" Grid.Column="1" HorizontalAlignment="Left" Margin="10,101,0,0" Grid.Row="2" VerticalAlignment="Top" GroupName="class" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="class2" Content="Волшебник" Grid.Column="1" HorizontalAlignment="Left" Margin="10,38,0,0" Grid.Row="2" VerticalAlignment="Top" GroupName="class" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="class4" Content="Колдун" Grid.Column="1" HorizontalAlignment="Left" Margin="10,80,0,0" Grid.Row="2" VerticalAlignment="Top" GroupName="class" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="class3" Content="Лучник" Grid.Column="1" HorizontalAlignment="Left" Margin="10,59,0,0" Grid.Row="2" VerticalAlignment="Top" GroupName="class" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="class1" Content="Воин" Grid.Column="1" HorizontalAlignment="Left" Margin="10,17,0,0" Grid.Row="2" VerticalAlignment="Top" GroupName="class" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <Button x:Name="butto" Content="СОЗДАТЬ" Grid.Column="1" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="4" VerticalAlignment="Top" Click="Button_Click" FontFamily="Segoe Print">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9FB806" Offset="0"/>
+                    <GradientStop Color="#FFFFAF03" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Right" Margin="0,65,0,57" Grid.Row="3" TextWrapping="Wrap" Text="Раса:" VerticalAlignment="Top" FontFamily="Segoe Print" Width="42" TextAlignment="Center"/>
+        <RadioButton x:Name="race1" Content="Человек" Grid.Column="1" HorizontalAlignment="Left" Margin="10,7,0,0" Grid.Row="3" VerticalAlignment="Top" GroupName="race" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="race2" Content="Эльф" Grid.Column="1" HorizontalAlignment="Left" Margin="10,28,0,0" Grid.Row="3" VerticalAlignment="Top" GroupName="race" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="race3" Content="Дворф" Grid.Column="1" HorizontalAlignment="Left" Margin="10,49,0,0" Grid.Row="3" VerticalAlignment="Top" GroupName="race" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="race4" Content="Гном" Grid.Column="1" HorizontalAlignment="Left" Margin="10,70,0,0" Grid.Row="3" VerticalAlignment="Top" GroupName="race" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <RadioButton x:Name="race5" Content="Орк" Grid.Column="1" HorizontalAlignment="Left" Margin="10,91,0,0" Grid.Row="3" VerticalAlignment="Top" GroupName="race" FontFamily="Segoe Print">
+            <RadioButton.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFC7CCFF" Offset="0"/>
+                    <GradientStop Color="#FFFF3A00" Offset="1"/>
+                </LinearGradientBrush>
+            </RadioButton.Background>
+        </RadioButton>
+        <Button Content="Быстрое создание" Grid.Column="1" HorizontalAlignment="Left" Margin="158,10,0,0" Grid.Row="4" VerticalAlignment="Top" Click="Button_Click_1" FontFamily="Segoe Print">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF9FB806" Offset="0"/>
+                    <GradientStop Color="#FFFFAF03" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Window>

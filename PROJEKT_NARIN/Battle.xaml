@@ -1,0 +1,66 @@
+﻿<Window x:Class="PROJEKT_NARIN.Battle"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PROJEKT_NARIN"
+        mc:Ignorable="d"
+        Title="Battle" Height="531.952" Width="1163.125">
+    <Window.Background>
+        <ImageBrush ImageSource="foneBattle.png" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="169"/>
+            <RowDefinition Height="168"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="0.5*"/>
+            <ColumnDefinition Width="1*"/>
+        </Grid.ColumnDefinitions>
+        <local:Player x:Name="u" Height="350" Width="Auto" Grid.RowSpan="3" Margin="82,0,84,89" HorizontalAlignment="Center"/>
+        <local:Player x:Name="enemy" Grid.Column="2" Height="350" Width="260" Grid.RowSpan="3" Margin="87,0,80,89"/>
+        <Button x:Name="nextTurn" Content="Ход" Margin="10,20,10,0" VerticalAlignment="Top" Grid.Column="1" Click="NextTurn_Click" Grid.Row="2" Height="45">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFE15A" Offset="0"/>
+                    <GradientStop Color="#FFA68800" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ab1" Content="ability1" HorizontalAlignment="Center" Margin="92,18,94,57" VerticalAlignment="Center" Width="240" Click="Button_Click" Grid.Row="2" Height="27">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFE15A" Offset="0"/>
+                    <GradientStop Color="#FFA68800" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button x:Name="ab2" Content="ability2" HorizontalAlignment="Center" Margin="92,53,94,22" VerticalAlignment="Center" Width="240" Click="ab2_Click" Grid.Row="2" Height="27">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFE15A" Offset="0"/>
+                    <GradientStop Color="#FFA68800" Offset="1"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock x:Name="stat2" Grid.Column="1" Margin="0,10,0,0" TextWrapping="Wrap" TextAlignment="Center">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFE854" Offset="1"/>
+                    <GradientStop Color="#FFFFF6BD"/>
+                </LinearGradientBrush>
+            </TextBlock.Background>
+        </TextBlock>
+        <TextBlock x:Name="stat" Grid.Column="1" Margin="0,10,0,0" Grid.Row="1" TextWrapping="Wrap" TextAlignment="Center" Text="Бой начался!">
+            <TextBlock.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFFFE854" Offset="1"/>
+                    <GradientStop Color="#FFFFF6BD"/>
+                </LinearGradientBrush>
+            </TextBlock.Background></TextBlock>
+
+    </Grid>
+</Window>

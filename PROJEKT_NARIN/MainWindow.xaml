@@ -1,0 +1,135 @@
+﻿<Window x:Class="PROJEKT_NARIN.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="RPG-Game" Height="421.949" Width="733.955">
+    <Window.Background>
+        <ImageBrush ImageSource="fone.jpg" Stretch="UniformToFill" TileMode="None" />
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"/>
+            <RowDefinition/>
+            <RowDefinition Height="4*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="1.5*"/>
+            <ColumnDefinition Width="3*"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Button Content="В бой" Grid.Column="1" HorizontalAlignment="Left" Margin="82,4,0,0" VerticalAlignment="Top" Width="151" Height="42" Grid.Row="3" FontSize="18" Click="Button_Click_2">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFD80505" Offset="1"/>
+                    <GradientStop Color="#FFFF8B00" Offset="0.07"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <TextBlock HorizontalAlignment="Left" Margin="10,14,0,0" TextWrapping="Wrap" Text="Выбрать противника:" VerticalAlignment="Top" Height="31" Width="178" FontSize="18" Grid.Row="1"/>
+        <TextBlock x:Name="nameTbMain" Grid.Column="1" HorizontalAlignment="Left" Margin="0,16,0,14" TextWrapping="Wrap" Text="Мой герой:" VerticalAlignment="Center" Height="30" Width="396" FontSize="20" Grid.Row="1" TextAlignment="Center"/>
+        <Grid Grid.Column="1" HorizontalAlignment="Left" Height="222" Grid.Row="2" VerticalAlignment="Top" Width="396" Grid.RowSpan="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="56*"/>
+                <RowDefinition Height="55*"/>
+                <RowDefinition Height="55*"/>
+            </Grid.RowDefinitions>
+            <TextBlock Margin="10" TextWrapping="Wrap" Text="Хиты:" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock Margin="10" Grid.Row="1" TextWrapping="Wrap" Text="Урон:" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="hits" Grid.Column="1" Margin="20,10,0,10" TextWrapping="Wrap" Text="0" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="hitsMax" Grid.Column="2" Margin="20,10,0,10" TextWrapping="Wrap" Text="из 0" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="damage" Margin="20,10,0,10" Grid.Row="1" TextWrapping="Wrap" Text="0" Grid.Column="1" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="dmgType" Grid.Column="2" Margin="20,10,0,10" Grid.Row="1" TextWrapping="Wrap" Text="оружие" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock Margin="10" Grid.Row="3" TextWrapping="Wrap" Text="Золото:" Height="35" Width="112" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock Margin="10" Grid.Row="2" TextWrapping="Wrap" Text="Защита:" Height="36" Width="112" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="def" Grid.Column="1" Margin="20,10,0,10" Grid.Row="2" TextWrapping="Wrap" Text="0" FontSize="18" FontFamily="Segoe Print"/>
+            <TextBlock x:Name="money" Grid.Column="1" Margin="20,10,0,10" Grid.Row="3" TextWrapping="Wrap" Text="0" FontSize="18" FontFamily="Segoe Print"/>
+        </Grid>
+        <TextBlock x:Name="day" Grid.Column="2" HorizontalAlignment="Left" Margin="10,16,0,0" TextWrapping="Wrap" Text="День: 1" VerticalAlignment="Top" Height="29" Width="112" FontSize="18" Grid.Row="1"/>
+        <Button x:Name="heal" Content="Отдых" Grid.Column="2" HorizontalAlignment="Left" Margin="10,108,0,0" Grid.Row="2" VerticalAlignment="Top" Width="110" Height="38" FontSize="16" Click="heal_Click" FontFamily="Segoe Print">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FF54CB27" Offset="1"/>
+                    <GradientStop Color="#FF156971" Offset="0.01"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Button Content="Обновить" Grid.Column="2" HorizontalAlignment="Left" Margin="10,0,0,0" Grid.Row="3" VerticalAlignment="Top" Width="110" Height="38" FontSize="16" Click="Button_Click_1" Background="#FFC6CD3F" FontFamily="Segoe Print"/>
+        <Button Content="Магазин" Grid.Column="2" HorizontalAlignment="Left" Margin="10,163,0,0" Grid.Row="2" VerticalAlignment="Top" Width="110" Height="38" FontSize="16" Click="Button_Click" FontFamily="Segoe Print">
+            <Button.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="#FFE8FF00" Offset="1"/>
+                    <GradientStop Color="#FFF7F708"/>
+                    <GradientStop Color="Red" Offset="0.393"/>
+                    <GradientStop Color="Red" Offset="0.68"/>
+                </LinearGradientBrush>
+            </Button.Background>
+        </Button>
+        <Grid HorizontalAlignment="Left" Height="222" Margin="10,0,0,0" Grid.Row="2" VerticalAlignment="Top" Width="183">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <RadioButton x:Name="enemy6" Content="Тарраск" Grid.Row="5" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+            <RadioButton x:Name="enemy5" Content="Дракон" Grid.Row="4" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+            <RadioButton x:Name="enemy4" Content="Огр" Grid.Row="3" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+            <RadioButton x:Name="enemy3" Content="Волк" Grid.Row="2" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+            <RadioButton x:Name="enemy2" Content="Кобольд" Grid.Row="1" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+            <RadioButton x:Name="enemy1" Content="Крыса" FontSize="18" FontFamily="Segoe Script" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="0,2,0,0">
+                <RadioButton.Background>
+                    <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                        <GradientStop Color="Red" Offset="0.053"/>
+                        <GradientStop Color="White" Offset="1"/>
+                    </LinearGradientBrush>
+                </RadioButton.Background>
+            </RadioButton>
+        </Grid>
+        <Button Content="Загрузить игру" Grid.Column="2" HorizontalAlignment="Left" Margin="10,58,0,0" Grid.Row="2" VerticalAlignment="Top" Width="110" Height="38" FontFamily="Segoe Print" FontSize="11" Background="#FF488ED3" Click="Button_Click_4"/>
+        <Button Content="Сохранить игру" Grid.Column="2" HorizontalAlignment="Left" Margin="10,10,0,0" Grid.Row="2" VerticalAlignment="Top" Width="110" Height="38" FontFamily="Segoe Print" FontSize="11" Background="#FF488ED3" Click="Button_Click_3"/>
+
+    </Grid>
+</Window>

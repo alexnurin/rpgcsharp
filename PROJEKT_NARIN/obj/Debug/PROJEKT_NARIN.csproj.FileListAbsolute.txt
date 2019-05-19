@@ -1,0 +1,134 @@
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.baml
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Window1.baml
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Window1.g.cs
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\App.g.cs
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+C:\SHP\!!narin\Проект С#\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.baml
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\App.g.cs
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.CoreCompileInputs.cache
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.g.cs
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.g.cs
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.lref
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.baml
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.baml
+D:\c##\PROJEKT_NARIN\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.baml
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\App.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.lref
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.baml
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.baml
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+D:\c##\PROJEKT_NARIN — копия — копия\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.CoreCompileInputs.cache
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.baml
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\App.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.lref
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.baml
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.baml
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+C:\SHP\narin\source_7f68e5733c434e4996be88ebd40fa4e3\Проект_Нарин\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\App.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.lref
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Battle.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Player.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Inv.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Inv.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Load.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN\PROJEKT_NARIN\obj\Debug\Load.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe.config
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.exe
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\bin\Debug\PROJEKT_NARIN.pdb
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csprojResolveAssemblyReference.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\MainWindow.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\MyHero.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Battle.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Inv.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Load.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\MyHero.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Player.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\App.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN_MarkupCompile.lref
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Battle.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Inv.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Load.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\Player.baml
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.g.resources
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.Properties.Resources.resources
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.GenerateResource.Cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.exe
+C:\Users\Алексей\Downloads\kek\PROJEKT_NARIN_NEW\PROJEKT_NARIN\obj\Debug\PROJEKT_NARIN.pdb
